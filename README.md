@@ -2,7 +2,7 @@
 
 ---
 
-As a Computer Science student, I'm currently exploring the vast landscape of technology to discover my true passion. While the field offers endless opportunities, I find myself particularly drawn to four key areas: Software Engineering, Data Science, Machine Learning, and Cybersecurity.
+As a Computer Science student, I'm currently exploring the vast landscape of technology to discover my true passion. While the field offers endless opportunities, I find myself particularly drawn to four key areas: Software Engineering, Data Science, Machine Learning, and Cybersecurity. Other than that, I have interest in design, mostly in graphic design.
 
 In the realm of **Software Engineering**, I'm fascinated by the process of building robust and efficient software solutions. The challenge of transforming complex requirements into functional code and seeing a project through from concept to completion is incredibly rewarding.
 
